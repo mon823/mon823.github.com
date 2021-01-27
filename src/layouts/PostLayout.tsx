@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import {Header} from '@components/header/headerContainer';
 
 const Wrapper = styled.div`
-    color: red;
+    display: flex;
 `;
 
 interface PostPageProps{

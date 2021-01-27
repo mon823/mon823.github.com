@@ -3,11 +3,11 @@ import {PostPageLayout} from '@layouts/PostLayout';
 
 interface HomeProps {};
 
-const MainPage: React.FC<HomeProps> = () =>{
+const Dev_docs: React.FC<HomeProps> = () =>{
     return (
         <PostPageLayout>
         </PostPageLayout>
     );
 }
 
-export default MainPage;
+export default Dev_docs;
